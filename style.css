@@ -2,56 +2,42 @@ img {
   display: inline-block;
   border-left: 200px;
 }
+section img {
+  width: 100vw;
+}
 
-#hero {
-  width: 90vw;
-  margin-top: 30px;
-  margin-bottom: 30px;
+li img {
+  width: 25vw;
+}
+
+div img {
+  width: 30vw;
 }
 main {
-  width: 90vw;
+  width: 100vw;
 }
 
 nav {
   display: inline-block;
 }
 
-#i1{
-  float: left;
-}
-
-#i2{
-  margin-left: 200px;
-}
-
-#i3{
-  float: right;
-}
-
 li {
   display: inline;
-  margin: 85px;
-  margin-bottom: 30px;
-
 }
 
 header{
-  width: 90vw;
+  width: 100vw;
   background-color: #DDD;
+  margin: 50px 50px 50px 50px;
 }
 
 p {
   display: inline-block;
   overflow: scroll;
-  width: 350px;
+  width: 48vw;
 }
 
 footer {
   background-color: #DDD;
-  width: 90vw;
-}
-
-#fourEighty{
-  width: 480px;
-
+  width: 100vw;
 }

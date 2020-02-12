@@ -1,0 +1,57 @@
+img {
+  display: inline-block;
+  border-left: 200px;
+}
+
+#hero {
+  width: 90vw;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+main {
+  width: 90vw;
+}
+
+nav {
+  display: inline-block;
+}
+
+#i1{
+  float: left;
+}
+
+#i2{
+  margin-left: 200px;
+}
+
+#i3{
+  float: right;
+}
+
+li {
+  display: inline;
+  margin: 85px;
+  margin-bottom: 30px;
+
+}
+
+header{
+  width: 90vw;
+  background-color: #DDD;
+}
+
+p {
+  display: inline-block;
+  overflow: scroll;
+  width: 350px;
+}
+
+footer {
+  background-color: #DDD;
+  width: 90vw;
+}
+
+#fourEighty{
+  width: 480px;
+
+}
